@@ -80,3 +80,22 @@ Converzo/
    cd frontend
    npm install
    npm run dev
+   ```
+
+
+🌐 Demo
+🚧 Live demo coming soon...
+Or test it locally by opening the frontend on multiple tabs/devices connected to the same Wi-Fi.
+
+🙌 Contributing
+Contributions are welcome!
+Open an issue or fork and submit a pull request with improvements.
+
+📄 License
+This project is licensed under the MIT License.
+
+👤 Author
+Aman Tiwari
+🔗<a href="https://github.com/AmanTiwari83/Converzo">Github</a>
+
+Thank You😊
